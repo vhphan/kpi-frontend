@@ -1,1 +1,0 @@
-import{_ as e}from"./RegionStatsFlex-bfea03f5.js";import{c as o,o as r}from"./index-a3c292f7.js";const m={__name:"Page4",setup(t){return(a,_)=>(r(),o(e,{"time-unit":"hourly"}))}};export{m as default};
